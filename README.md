@@ -1,7 +1,6 @@
 # Personal Page 
 # Welcome
-This is martafelcini.github.io
-Use GitHub Pages to host a website about myself
+This is martafelcini.github.io, using GitHub Pages to host a personal website, 
 see https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
 
 Hello Universe!
