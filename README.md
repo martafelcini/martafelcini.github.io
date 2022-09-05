@@ -1,8 +1,8 @@
 # Personal Website
 This is https://martafelcini.github.io 
 using GitHub Pages to host a personal website
-
-see https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
+<a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages</a>
+see 
 
 Hello Universe!
 More is coming...
