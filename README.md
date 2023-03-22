@@ -8,9 +8,11 @@ More is coming...
 
 Augusto Giacometti (1877-1947) Nuit étoilée (Sternenhimmel), 1917 Huile sur toile - Coire, Bundner Kunstmuseum
 
-developed using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages</a> 
+ 
 
 # Chapter 1
 # Chapter 2
 # Chapter 3
 
+
+Page developed using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages</a>
