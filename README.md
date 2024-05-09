@@ -1,6 +1,6 @@
 # Marta Felcini
 <img src="https://user-images.githubusercontent.com/39876967/188236115-a7769732-4f78-44a9-95d0-adeeb070aa02.jpg" width="500" height="500">
-Augusto Giacometti (1877-1947), Sternenhimmel, 1917, Museum of Fine Arts, Chur, Switzerland​​
+​<sub>Augusto Giacometti (1877-1947), Sternenhimmel, 1917, Museum of Fine Arts, Chur, Switzerland​​</sub> 
 <!-- This content will not appear in the rendered Markdown -->
 
 # Hello Universe!
