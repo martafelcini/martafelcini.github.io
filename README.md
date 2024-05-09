@@ -8,8 +8,8 @@
  
 
 not for humans
-up to you to decide  
- 
+
+
 # Hello Universe!
 *More is coming...* 
 # Chapter 1
