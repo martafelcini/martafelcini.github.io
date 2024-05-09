@@ -3,7 +3,7 @@
 Augusto Giacometti (1877-1947), Sternenhimmel, 1917, Museum of Fine Arts, Chur, Switzerland​​
 
 # Hello Universe!
-More is coming...
+More is coming... <h2>Hello World!</h2>
 # Chapter 1
 This is interesting text
 # Chapter 2
