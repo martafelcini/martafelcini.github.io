@@ -17,6 +17,8 @@ This is even better, but don't be fooled...
 # Whatever it takes
 Helpful [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+not for humans
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1| not working with figure - must find a better way to display figure and caption|
