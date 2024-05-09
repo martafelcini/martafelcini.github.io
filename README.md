@@ -1,8 +1,5 @@
 # Marta Felcini
-<img src="https://user-images.githubusercontent.com/39876967/188236115-a7769732-4f78-44a9-95d0-adeeb070aa02.jpg" width="500" height="500">
-​<sub>Augusto Giacometti (1877-1947), Sternenhimmel, 1917, Museum of Fine Arts, Chur, Switzerland​​</sub> 
 <!-- This content will not appear in the rendered Markdown -->
-
 # Hello Universe!
 More is coming... <h2>Hello World!</h2>
 # Chapter 1
@@ -11,6 +8,8 @@ This is interesting text
 Also this is interesting
 # Chapter 3
 This is even better, but don't be fooled...
+<img src="https://user-images.githubusercontent.com/39876967/188236115-a7769732-4f78-44a9-95d0-adeeb070aa02.jpg" width="500" height="500">
+​<sub>Augusto Giacometti (1877-1947), Sternenhimmel, 1917, Museum of Fine Arts, Chur, Switzerland​​</sub> 
 
 
 Page developed using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages</a>
