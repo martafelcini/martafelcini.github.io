@@ -18,7 +18,7 @@ Helpful [Basic writing and formatting syntax](https://docs.github.com/en/get-sta
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|               |
+|     1| not working with figure - must find a better way to display figure and caption|
 |     2|               |
 |     3|               |
 
