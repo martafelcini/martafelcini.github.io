@@ -6,6 +6,8 @@
     <figcaption> <sub>Augusto Giacometti (1877-1947), Sternenhimmel, 1917, Museum of Fine Arts, Chur, Switzerland</sub> </figcaption>
 </figure>
 
+not for humans
+
 # Hello Universe!
 *More is coming...* 
 # Chapter 1
