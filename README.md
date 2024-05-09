@@ -12,7 +12,7 @@ Also this is interesting
 # Chapter 3
 This is even better, but don't be fooled...
 
-Basic writing and formatting syntax https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Basic writing and formatting syntax https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
 
 
 Page developed using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages</a>
